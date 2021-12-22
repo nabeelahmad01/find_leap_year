@@ -1,0 +1,5 @@
+import 'leap.dart';
+void main() {
+var l= Leap();
+l.tleap(2000);	
+}
